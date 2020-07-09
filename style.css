@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+.header {
+  height: 150px;
+}
+
+.head1 {
+  position: absolute;
+  left: 15%;
+  top: 20%;
+}
+
+.buttonmenu {
+  height: 40px;
+  margin-right: 0;
+  position: absolute;
+  right: 15%;
+  top: 29%;
+  color: black;
+}
+
+.buttonmenu button {
+  color: grey;
+  width: 130px;
+}
+
+.imgmain {
+  margin-left: 200px;
+}
+
+.jamba {
+  width: 700px;
+  margin-left: 0;
+}
+
+.jamba1 {
+  position: absolute;
+  left: 45%;
+  margin-top: 36px;
+}
+
+.table12 {
+  margin-top: 50px;
+}
